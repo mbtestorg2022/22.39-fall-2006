@@ -219,7 +219,7 @@ Ma, B. "Fundamental Radiation Effects on Materials." Chapter 4 in _Nuclear React
 
 Olander, Donald E. "Radiation Damage." Chapter 17 in _Fundamental Aspects of Nuclear Reactor Fuel Elements_. Washington, DC: U.S. DOE, 1976. ([PDF 1 - 2.0 MB]({{< baseurl >}}/resources/lec20_olander1)) ([PDF 2 - 1.9 MB]({{< baseurl >}}/resources/lec20_olander2))
 
-U.S. NRC. "Radiation Embrittlement of Reactor Vessel Materials." In _Regulatory Guide 1.99_ (Revision 2, May 1988). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB]({{< baseurl >}}/resources/lec24_o))
+U.S. NRC. "Radiation Embrittlement of Reactor Vessel Materials." In _Regulatory Guide 1.99_ (Revision 2, May 1988). ([PDF - 1.6 MB]({{< baseurl >}}/resources/lec24_o))
 
 ———. "[Reevaluation of the pressurized thermal shock rule (10 CFR 50.61) screening criterion](http://www.nrc.gov/reading-rm/doc-collections/acrs/letters/2002/4891982.html)." June 23, 2000.
 
