@@ -9,6 +9,7 @@ description: Lecture slides on Probabilistic Calculations, General Formulation, 
   Risk Achievement Worth, and Comments on Importance Measures.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/aedbd865e172e08d44f9e85215913d0b_lec10_11_ga.pdf
 file_type: application/pdf
+parent_uid: ea4c6762-2031-77a3-dfa7-940a90b40201
 resourcetype: Document
 title: lec10_11_ga.pdf
 uid: aedbd865-e172-e08d-44f9-e85215913d0b

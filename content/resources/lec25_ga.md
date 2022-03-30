@@ -8,6 +8,7 @@ description: Lecture slides on Risk-Informed Design Guidance for Gen IV Reactors
   based on Probabilistic Goals.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/83c199f9c5d03476b4c44ac895de18b5_lec25_ga.pdf
 file_type: application/pdf
+parent_uid: ea4c6762-2031-77a3-dfa7-940a90b40201
 resourcetype: Document
 title: lec25_ga.pdf
 uid: 83c199f9-c5d0-3476-b4c4-4ac895de18b5

@@ -7,6 +7,7 @@ description: 'Lecture slides on Nuclear Energy Systems Economic Evaluations: Cap
   of Scale Projections, and Potential Economic Advantages of Smaller Nuclear Plants.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/eed3d029aca86b3dbc80ecdf6bb83c88_lec18_nt.pdf
 file_type: application/pdf
+parent_uid: ea4c6762-2031-77a3-dfa7-940a90b40201
 resourcetype: Document
 title: lec18_nt.pdf
 uid: eed3d029-aca8-6b3d-bc80-ecdf6bb83c88

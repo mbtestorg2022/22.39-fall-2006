@@ -4,6 +4,7 @@ description: U.S. NRC. "Thermal and Hydraulic Design." Section 4.4 in Standard R
   Plan NUREG-0800.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/962982f70886968da28ca6cc8e04cd1b_nrc_srp_44.pdf
 file_type: application/pdf
+parent_uid: e977312d-c612-e36d-626c-4daf73351019
 resourcetype: Document
 title: nrc_srp_44.pdf
 uid: 962982f7-0886-968d-a28c-a6cc8e04cd1b

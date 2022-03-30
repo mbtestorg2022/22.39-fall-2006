@@ -7,6 +7,7 @@ description: 'Lecture slides on Reactor Safety: The Emergence of Probabilistic R
   Decision Making for Licensing Basis Changes, and Risk-Informed Framework.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/aeaa07d3f241bb6ce7da6cdab11dfa15_lec7_ga.pdf
 file_type: application/pdf
+parent_uid: ea4c6762-2031-77a3-dfa7-940a90b40201
 resourcetype: Document
 title: lec7_ga.pdf
 uid: aeaa07d3-f241-bb6c-e7da-6cdab11dfa15

@@ -7,6 +7,7 @@ description: Lecture slides on Nuclear Energy System Strategies, Missions and Ec
   National Strategies.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/ad43e7e1588eef2a720b1c0b8bb12ecc_lec1_nt.pdf
 file_type: application/pdf
+parent_uid: ea4c6762-2031-77a3-dfa7-940a90b40201
 resourcetype: Document
 title: lec1_nt.pdf
 uid: ad43e7e1-588e-ef2a-720b-1c0b8bb12ecc
